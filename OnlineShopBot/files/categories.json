@@ -1,0 +1,62 @@
+  [
+  {
+    "Id": 1,
+    "Name": "Phones",
+    "ParentId": 0
+  },
+  {
+    "Id": 2,
+    "Name": "Laptops",
+    "ParentId": 0
+  },
+  {
+    "Id": 3,
+    "Name": "Accessories",
+    "ParentId": 0
+  },
+  {
+    "Id": 4,
+    "Name": "Smartphones",
+    "ParentId": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Button mobile",
+    "ParentId": 1
+  },
+  {
+    "Id": 7,
+    "Name": "Asus",
+    "ParentId": 2
+  },
+  {
+    "Id": 8,
+    "Name": "Acer",
+    "ParentId": 2
+  },
+  {
+    "Id": 9,
+    "Name": "Hp",
+    "ParentId": 2
+  },
+  {
+    "Id": 10,
+    "Name": "Lenovo",
+    "ParentId": 2
+  },
+  {
+    "Id": 11,
+    "Name": "Headphones",
+    "ParentId": 3
+  },
+  {
+    "Id": 12,
+    "Name": "Powerbanks",
+    "ParentId": 3
+  },
+  {
+    "Id": 13 ,
+    "Name": "Mouses",
+    "ParentId": 3
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuwWFkThJKhP0BbOmbfWlfDypjedg2wal2faYzG30o8CAiADixznt+hp+Zq1TTy8h5iuuMMHvEnK2hs5T+4KdQ==",
+  "success": true,
+  "projectFilePath": "F:\\IT CONTACT\\4 курс\\C# 2\\Проэкт тг бот\\OnlineShopBot\\OnlineShopBot\\OnlineShopBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
